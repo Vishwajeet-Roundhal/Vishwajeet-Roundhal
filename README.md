@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">Passionate developer committed to daily learning, seeking to contribute to innovative projects and collaborate with fellow enthusiasts. Eager to leverage my skills in web dev to create impactful solutions and continually expand my knowledge in the tech </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeet-roundhal&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeet-roundhal" /> </p>
 
