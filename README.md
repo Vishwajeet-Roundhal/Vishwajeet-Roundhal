@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwajeet-roundhal" alt="vishwajeet-roundhal" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **vishwajeetroundhal0@gmail.com**
 
 </p>
 
